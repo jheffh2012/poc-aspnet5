@@ -14,5 +14,7 @@ Este repositório contém código em AspNet MVC5 contendo as seguintes caracteri
 ## Instalando local ##
 
 O banco de dados esta disponível em: .\poc.AspNet5.MVC\App_Data\poc_AspNet5_teste.mdf;
+
 Certifique-se de que o SQL Server Express esteja instalado em sua máquina;
+
 O Arquivo de configuração ".\poc.AspNet5.MVC\Web.config" deve estar apontando para ele;
